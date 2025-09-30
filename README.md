@@ -43,7 +43,7 @@ This will help in:
 ---
 
 ## 📊 Dataset
-- **Source**: [NASA CMAPSS dataset](https://www.kaggle.com/datasets/palbha/cmapss-jet-engine-simulated-data))  
+- **Source**: [NASA CMAPSS dataset](https://www.kaggle.com/datasets/palbha/cmapss-jet-engine-simulated-data)
 - **Files**: `train_FD001.txt`, `train_FD002.txt`, `train_FD003.txt`, `train_FD004.txt`  
 - Each row contains:
   - Engine ID  
