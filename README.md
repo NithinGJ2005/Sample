@@ -1,3 +1,4 @@
+# Nithin-Milestone1
 # PrognosAI: AI-Driven Predictive Maintenance System
 
 ## 📌 Project Objective
@@ -42,7 +43,7 @@ This will help in:
 ---
 
 ## 📊 Dataset
-- **Source**: [NASA CMAPSS dataset](https://data.nasa.gov/dataset/C-MAPSS-Aircraft-Engine-Simulator-Data/xaut-bemq)  
+- **Source**: [NASA CMAPSS dataset]([https://data.nasa.gov/dataset/C-MAPSS-Aircraft-Engine-Simulator-Data/xaut-bemq](https://www.kaggle.com/datasets/palbha/cmapss-jet-engine-simulated-data))  
 - **Files**: `train_FD001.txt`, `train_FD002.txt`, `train_FD003.txt`, `train_FD004.txt`  
 - Each row contains:
   - Engine ID  
