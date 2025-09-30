@@ -51,36 +51,6 @@ This will help in:
 
 ---
 
-## 🚀 Installation & Usage
-### 1. Clone the repo
-```bash
-git clone https://github.com/yourusername/RUL-PREDICTIVE-MAINTENANCE.git
-cd RUL-PREDICTIVE-MAINTENANCE
-```
-
-### 2. Create a virtual environment
-```bash
-python -m venv venv
-source venv/bin/activate      # Linux/Mac
-venv\Scripts\activate         # Windows
-```
-
-### 3. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Run data preprocessing
-```bash
-python src/data_preprocessing.py
-```
-
-### 5. Train the model
-```bash
-python src/train_model.py
-```
-
----
 
 ## 📈 Future Improvements
 - Experiment with **Transformers for time-series**  
