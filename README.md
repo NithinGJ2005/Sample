@@ -57,9 +57,4 @@ This will help in:
 - Experiment with **Transformers for time-series**  
 - Hyperparameter tuning (learning rate, sequence length)  
 - Deploy via **Streamlit dashboard**  
-- Integrate **real-time streaming data**  
-
----
-
-## 🧑‍💻 Contributors
-- **Nithin G J** – Project Developer  
+- Integrate **real-time streaming 
