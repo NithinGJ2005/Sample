@@ -1,7 +1,7 @@
 # Nithin-Milestone1
 # PrognosAI: AI-Driven Predictive Maintenance System
 
-## 📌 Project Objective
+##  Project Objective
 To design and develop an **AI-based predictive maintenance system** capable of estimating the **Remaining Useful Life (RUL)** of industrial machinery using **multivariate time-series sensor data**.  
 The system uses the **NASA CMAPSS dataset** and is designed to generalize across domains like turbines, pumps, and motors.  
 This will help in:
@@ -11,7 +11,7 @@ This will help in:
 
 ---
 
-## ⚙️ Project Workflow
+##  Project Workflow
 1. **Data Ingestion**  
    - Load and preprocess the CMAPSS dataset (cycle-wise engine data).  
 
@@ -33,7 +33,7 @@ This will help in:
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 - **Data Processing** → `pandas`, `numpy`  
 - **Visualization** → `matplotlib`, `seaborn`  
 - **Model Training** → `TensorFlow/Keras` (LSTM, GRU)  
@@ -42,7 +42,7 @@ This will help in:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - **Source**: [NASA CMAPSS dataset](https://www.kaggle.com/datasets/palbha/cmapss-jet-engine-simulated-data)
 - **Files**: `train_FD001.txt`, `train_FD002.txt`, `train_FD003.txt`, `train_FD004.txt`  
 - Each row contains:
@@ -53,7 +53,7 @@ This will help in:
 ---
 
 
-## 📈 Future Improvements
+##  Future Improvements
 - Experiment with **Transformers for time-series**  
 - Hyperparameter tuning (learning rate, sequence length)  
 - Deploy via **Streamlit dashboard**  
